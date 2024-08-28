@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mericcapar&label=Profile%20views&color=1071b1&style=flat" alt="mericcapar" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Open CV and Machine Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
