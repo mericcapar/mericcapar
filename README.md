@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Meric</h1>
-<h3 align="center">My name is Meric, and I'm an student at Suleyman Demirel University. Interested in all things Python & Data Science!</h3>
+<h3 align="center">My name is Meric, and I'm an student at Suleyman Demirel University. Interested in all things Python, Data Science & Image processing!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mericcapar&label=Profile%20views&color=1071b1&style=flat" alt="mericcapar" /> </p>
-
-- 🌱 I’m currently learning **Machine Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
